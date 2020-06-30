@@ -1,0 +1,44 @@
+Condition,T is a good manager.,I would like to work for T.,T is a skilled leader.,T is effective in managing his team.,T demonstrates a high level of emotional intelligence.,T is a weak leader.,T cares little about others' thoughts and opinions.,T is open to feedback.,T is not open to change.,T communicates poorly with others.,T has good listening skills.,Professor N is a good professor.,I would like to take a class with Professor N.,Professor N is a skilled leader.,Professor N is effective in teaching his students.,Professor N demonstrates a high level of emotional intelligence.,Professor N is a weak leader.,Professor N cares little about others' thoughts and opinions.,Professor N is open to feedback.,Professor N is not open to change.,Professor N communicates poorly with others.,Professor N has good listening skills.,Age,Gender,Academic year,Ethnic identity,Racial identity,Please indicate which of the following best describes you:,First Major,Second Major,Minor
+Active,4,3,5,5,4,3,3,5,3,4,5,5,5,5,5,5,2,1,5,2,2,5,18,Female,Freshmen,Neither of the above categories,White,"In addition to being a student, I work part-time.",Nursing,,
+Active,7,7,7,6,6,1,1,7,1,1,7,4,5,7,4,4,3,7,7,3,1,6,18,Female,Freshmen,Neither of the above categories,Asian,I am a student and do not work.,Nursing,,
+Active,7,7,6,7,7,1,1,7,1,1,7,7,7,6,6,7,1,1,7,1,1,7,18,Female,Freshmen,Neither of the above categories,Caribbean,"In addition to being a student, I work part-time.",Criminal Justice,,
+Active,6,5,5,4,5,2,1,7,1,2,6,5,5,5,4,5,1,2,7,1,2,6,21,Female,Junior,Neither of the above categories,Asian,"In addition to being a student, I work part-time.",SOBT,,Social Work
+Active,7,7,7,7,7,1,1,7,1,1,7,7,7,7,7,7,1,1,7,1,1,7,18,Female,Freshmen,Hispanic,White,"In addition to being a student, I work part-time.",Occupational Therapy,,
+Active,7,7,6,7,7,1,1,7,1,1,7,6,6,6,6,6,1,1,7,1,1,7,18,Female,Freshmen,Neither of the above categories,"Native Hawaiian or Other Pacific Islander,White",I am a student and do not work.,Diplomacy and International Relations,,
+Active,4,4,4,5,5,4,4,5,4,4,4,6,6,7,7,7,7,7,7,7,7,7,23,Female,Junior,Neither of the above categories,Black or African American,"In addition to being a student, I work part-time.",Psychology,,
+Active,7,6,7,7,7,2,1,7,2,1,7,7,7,7,7,7,1,1,7,1,1,7,18,Female,Freshmen,Hispanic,,"In addition to being a student, I also work intermittently.",Nursing,,
+Active,7,7,6,6,7,2,1,7,1,1,7,7,7,7,6,7,1,7,7,3,1,7,20,Female,Sophomore,Neither of the above categories,Asian,"In addition to being a student, I also work intermittently.",Biology,,Chemistry
+Active,7,7,7,7,6,1,1,7,7,1,7,5,5,5,5,2,4,3,3,4,4,5,19,Male,Freshmen,Neither of the above categories,Asian,"In addition to being a student, I work part-time.",Nursing,,
+Active,7,6,6,7,6,2,1,6,2,6,7,6,6,6,5,6,1,2,6,2,2,6,19,Male,Freshmen,Latino,White,I am a student and do not work.,Visual and Sound Media,,Philosophy 
+Active,3,3,3,3,3,4,1,7,1,4,4,7,7,7,7,7,1,1,7,1,1,7,19,Female,Freshmen,Neither of the above categories,Asian,"In addition to being a student, I also work intermittently.",Social and Behavioral Sciences,,Concentration: Allied Health
+Active,7,2,6,7,7,1,1,7,2,2,7,5,5,4,4,6,4,1,7,2,1,7,20,Female,Sophomore,Latino,Latino,"In addition to being a student, I work part-time.",social work,,
+Active,7,7,7,7,7,1,1,7,1,1,7,7,7,4,4,4,1,1,6,2,2,7,21,Female,Junior,Hispanic,White,"In addition to being a student, I work a full-time job.",Social Work,,
+Active,6,5,5,7,6,2,1,7,4,2,7,7,7,7,7,6,3,2,7,3,7,7,18,Female,Freshmen,Neither of the above categories,White,I am a student and do not work.,Elementary Education ,,
+Inactive,5,4,5,6,2,5,4,2,5,6,3,5,4,5,3,3,5,5,3,5,5,4,19,Female,Freshmen,Neither of the above categories,"Asian,White",I am a student and do not work.,Nursing,,
+Inactive,5,4,6,6,5,3,5,3,6,2,5,5,4,5,6,6,2,2,6,2,1,6,20,Female,Sophomore,"Hispanic,Latino",White,"In addition to being a student, I also work intermittently.",Social Behavioral  Science,,Allied Health Track
+Inactive,5,4,4,4,3,4,4,5,6,4,4,5,5,5,5,5,3,3,5,3,3,5,19,Female,Sophomore,Neither of the above categories,White,I am a student and do not work.,Psychology,,
+Inactive,4,5,5,4,5,2,4,3,5,4,4,5,6,5,6,6,3,3,6,4,3,5,19,Female,Sophomore,Neither of the above categories,White,"In addition to being a student, I also work intermittently.",Bio on track for PT,,
+Inactive,2,1,4,2,1,6,7,2,7,7,1,5,3,3,5,4,2,3,3,2,4,4,20,Female,Sophomore,Neither of the above categories,Black or African American,"In addition to being a student, I work part-time.",biology ,,business administration 
+Inactive,3,2,4,3,5,4,3,4,4,4,5,5,5,5,4,6,3,2,5,4,2,5,19,Female,Sophomore,Neither of the above categories,White,"In addition to being a student, I work part-time.",Biology,Physical Therapy ,
+Inactive,6,4,6,6,3,2,5,3,4,3,1,6,3,4,5,3,2,5,3,5,4,3,19,Male,Sophomore,Hispanic,Dominican,"In addition to being a student, I work part-time.",Biology,,
+Inactive,5,3,5,4,5,3,6,2,6,4,3,7,6,6,6,6,3,2,5,3,3,5,18,Female,Freshmen,Neither of the above categories,White,"In addition to being a student, I work part-time.",Nursing,n/a,n/a
+Inactive,3,4,4,5,3,5,1,7,5,3,2,5,7,5,5,6,1,5,1,1,1,2,19,Male,Junior,Neither of the above categories,Asian,"In addition to being a student, I also work intermittently.",Biology,Philosophy,
+Inactive,5,5,5,4,5,2,4,4,4,5,4,6,6,6,4,5,1,1,4,4,1,5,18,Male,Freshmen,Hispanic,White,I am a student and do not work.,Nursing,,
+Inactive,6,5,6,7,4,2,5,2,6,2,4,3,2,2,4,2,3,7,1,7,6,1,19,Female,Sophomore,Neither of the above categories,White,"In addition to being a student, I work part-time.",Public Relations,,
+Inactive,3,3,3,3,3,6,6,4,2,6,2,6,6,6,6,6,2,2,5,2,2,5,20,Female,Senior,Neither of the above categories,White,"In addition to being a student, I work a full-time job.",Management,Entrepreneurship,
+Inactive,5,4,5,4,3,2,3,5,2,3,4,7,6,6,6,5,1,3,4,6,3,5,23,Female,Freshmen,Neither of the above categories,White,I am a student and do not work.,Psychology ,,
+Inactive,5,5,5,4,6,2,4,6,3,2,6,5,4,5,5,4,2,4,5,3,3,3,19,Female,Freshmen,Hispanic,Cuban,I am a student and do not work.,Social and Behavioral Sciences- Occupational Therapy,,
+Control,6,5,6,6,4,2,6,2,5,5,1,5,4,3,4,4,3,3,4,4,3,3,19,Female,Sophomore,Hispanic,,I am a student and do not work.,Biology,,
+Control,6,4,6,6,5,1,1,4,4,2,4,7,7,7,4,7,1,1,7,4,1,7,18,Male,Freshmen,"Hispanic,Latino",Latino,"In addition to being a student, I work part-time.",biology,,
+Control,3,4,5,5,5,2,5,5,5,3,2,6,6,7,6,6,2,2,7,3,1,6,19,Male,Freshmen,Hispanic,Mexican American,"In addition to being a student, I work part-time.",Psychology,,
+Control,6,6,6,6,5,1,2,3,4,2,3,4,4,4,3,2,3,3,5,4,3,2,20,Female,Sophomore,Neither of the above categories,"Black or African American,White",I am a student and do not work.,Biology ,,
+Control,6,6,5,6,6,1,7,3,4,3,4,7,6,6,5,6,2,3,2,5,3,3,18,Female,Freshmen,Hispanic,White,"In addition to being a student, I work part-time.",Nursing,,
+Control,5,6,4,6,4,3,4,3,4,2,3,6,6,5,6,4,2,2,6,2,2,5,19,Female,Sophomore,Neither of the above categories,White,"In addition to being a student, I work part-time.",Philosophy,,Chemistry
+Control,7,7,6,7,6,1,4,4,3,1,4,7,7,6,5,5,1,2,5,4,3,5,21,Female,Freshmen,Neither of the above categories,White,"In addition to being a student, I work part-time.",Nursing,,
+Control,6,6,5,4,7,1,4,5,3,3,4,6,6,6,6,7,1,1,6,3,1,7,18,Female,Freshmen,Neither of the above categories,White,I am a student and do not work.,Nurse,,
+Control,4,4,5,4,4,4,6,4,4,5,3,6,6,5,6,6,2,2,5,3,3,5,20,Male,Sophomore,Neither of the above categories,Asian,I am a student and do not work.,Business-Undecided,,
+Control,6,7,7,6,4,3,2,2,3,1,2,7,7,5,7,4,2,1,7,3,1,3,19,Male,Freshmen,Neither of the above categories,Asian,"In addition to being a student, I work part-time.",Biochemistry,,
+Control,6,6,5,6,5,2,6,6,2,2,6,6,5,6,6,4,3,2,5,2,2,5,20,Female,Junior,Neither of the above categories,Asian,"In addition to being a student, I work part-time.",SOBS,,Business
+Control,5,5,5,5,4,3,4,4,3,3,4,5,4,5,4,4,3,3,5,3,3,4,19,Male,Freshmen,Neither of the above categories,White,I am a student and do not work.,Journalism,,
+Control,4,4,4,4,4,2,2,5,2,2,4,5,5,4,4,4,2,2,4,2,2,4,20,Female,Junior,Neither of the above categories,White,"In addition to being a student, I also work intermittently.",SOBS,,Psychology 
+Control,5,5,5,5,5,5,5,5,4,4,4,7,7,7,6,6,1,1,6,1,1,6,21,Male,Junior,Neither of the above categories,White,"In addition to being a student, I also work intermittently.",SOBS Allied Health,,Psych

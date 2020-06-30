@@ -1,0 +1,17 @@
+--- 
+title: <center> <h1> Perceptions of Leaders </h1> </center>
+author: <center> <h2> Casey Osorio-Duffoo </h2> </center>
+output: 
+  pdf_document:
+    latex_engine: xelatex
+sansfont: Times New Roman
+fontsize: 12pt
+geometry: margin=1in
+site: bookdown::bookdown_site
+documentclass: article
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+---
+
+\newpage
